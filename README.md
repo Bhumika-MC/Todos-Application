@@ -8,6 +8,11 @@ It allows users to add, delete, edit, and manage their daily tasks effectively.
 Check out the deployed project here:  
 [*Todos Application*](https://bhumitodosapp.ccbp.tech/)
 
+## Screenshots
+
+### Home Page
+
+![Home Page](https://i.imgur.com/YOUR_IMAGE_LINK.png)
 
 ## Features
 
@@ -19,10 +24,9 @@ Check out the deployed project here:
 
 ## Technologies Used
 
-- React JS
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- JavaScript
+- HTML
+- CSS
 
 ## Folder Structure
 
