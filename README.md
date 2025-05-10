@@ -12,7 +12,7 @@ Check out the deployed project here:
 
 ### Home Page
 
-![Home Page](https://i.imgur.com/YOUR_IMAGE_LINK.png)
+![Home Page](https://res.cloudinary.com/dzftwxkiu/image/upload/v1746858314/Screenshot_2025-05-10_115211_q9wboy.png)
 
 ## Features
 
