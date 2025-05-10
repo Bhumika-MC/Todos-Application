@@ -17,7 +17,6 @@ Check out the deployed project here:
 ## Features
 
 - Add new todos
-- Edit existing todos
 - Mark todos as completed
 - Delete todos
 - Responsive and clean UI
